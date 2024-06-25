@@ -3,6 +3,7 @@
 
 Gather data from Olist's databases and relevant sources.
 Handle missing values, remove duplicates, and standardize formats.
+
 📊 Data Exploration:
 
 Use statistical methods and visualizations to understand data distributions.
